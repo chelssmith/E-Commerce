@@ -9,9 +9,9 @@ Done within the root folder
     npm i
 
 ## Usage
-To use the server run command
+To use the server, run this command
 
-    noder server
+    node server
 
 ## Walkthrough 
 
